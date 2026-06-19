@@ -17,7 +17,7 @@ This is a project made to find out highest revenue generating time of the year a
 * Use some SQL function to analyze and tableau for visualize of data.
 * This is a personal research project.
 
-# [Project 3 : Hospital-project] (https://github.com/ayeshaashraf2304-creator/Hospital-project.git-)
+# [Project 3 : Hospital-project ](https://github.com/ayeshaashraf2304-creator/Hospital-project.git-)
 
 This is a project to find out more patients with diagnosis group and does follow up scheduled affect the health.
 
