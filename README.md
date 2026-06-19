@@ -9,7 +9,7 @@ This is a project I made to get some insights.
 * Use SQL functions.
 * This is a personal research project.
 
-# Project 2 : Sales-Data (https://github.com/ayeshaashraf2304-creator/Sales-Data-.git)
+# [Project 2 : Sales-Data ](https://github.com/ayeshaashraf2304-creator/Sales-Data-.git-)
 
 This is a project made to find out highest revenue generating time of the year and hot selling product category.
 
@@ -17,7 +17,7 @@ This is a project made to find out highest revenue generating time of the year a
 * Use some SQL function to analyze and tableau for visualize of data.
 * This is a personal research project.
 
-# Project 3 : Hospital-project (https://github.com/ayeshaashraf2304-creator/Hospital-project.git)
+# [Project 3 : Hospital-project] (https://github.com/ayeshaashraf2304-creator/Hospital-project.git-)
 
 This is a project to find out more patients with diagnosis group and does follow up scheduled affect the health.
 
